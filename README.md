@@ -1,21 +1,11 @@
 <h1 align="center">Hi 👋, I'm C2KDEV</h1>
-<h3 align="center">A passionate developer from the digital realm</h3>
+<h3 align="center">A passionate frontend developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c2kdev&label=Profile%20views&color=0e75b6&style=flat" alt="c2kdev" /> </p>
 
-- 🔭 I’m currently working on **Next-Gen AI Solutions**
-
 - 🌱 I’m currently learning **Quantum Computing and Blockchain**
 
-- 👯 I’m looking to collaborate on **Open Source AI Projects**
-
-- 🤝 I’m looking for help with **Scaling Distributed Systems**
-
-- 💬 Ask me about **Machine Learning and Cloud Architecture**
-
-- 📫 How to reach me **c2kdev@example.com**
-
-- ⚡ Fun fact **I can solve a Rubik's cube in under 30 seconds!**
+- 📫 How to reach me **dinhtiencong113@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
