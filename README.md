@@ -1,55 +1,41 @@
-# Hi there, I'm [Your Name] 👋
+<h1 align="center">Hi 👋, I'm C2KDEV</h1>
+<h3 align="center">A passionate developer from the digital realm</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=c2kdev&label=Profile%20views&color=0e75b6&style=flat" alt="c2kdev" /> </p>
 
-## 🚀 About Me
+- 🔭 I’m currently working on **Next-Gen AI Solutions**
 
-- 🔭 I’m currently working on [Your Project/Company]
-- 🌱 I’m currently learning [Technology/Skill]
-- 👯 I’m looking to collaborate on [Project/Technology]
-- 🤔 I’m looking for help with [Project/Technology]
-- 💬 Ask me about [Technology/Skill]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Something Interesting About You]
+- 🌱 I’m currently learning **Quantum Computing and Blockchain**
 
-## 🛠️ Languages and Tools
+- 👯 I’m looking to collaborate on **Open Source AI Projects**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+- 🤝 I’m looking for help with **Scaling Distributed Systems**
 
-## 📈 GitHub Stats
+- 💬 Ask me about **Machine Learning and Cloud Architecture**
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- 📫 How to reach me **c2kdev@example.com**
 
-## 📫 Connect with Me
+- ⚡ Fun fact **I can solve a Rubik's cube in under 30 seconds!**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://instagram.com/yourhandle)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/c2kdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="c2kdev" height="30" width="40" /></a>
+<a href="https://twitter.com/c2kdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="c2kdev" height="30" width="40" /></a>
+<a href="https://instagram.com/c2kdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="c2kdev" height="30" width="40" /></a>
+</p>
 
-## 📝 Latest Blog Posts
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+    <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a> 
+</p>
 
-<!-- BLOG-POST-LIST:START -->
-- [Post Title](https://yourblog.com/post)
-- [Another Post Title](https://yourblog.com/post)
-<!-- BLOG-POST-LIST:END -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c2kdev&show_icons=true&locale=en&layout=compact" alt="c2kdev" /></p>
 
-## 🎨 Projects
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c2kdev&show_icons=true&locale=en" alt="c2kdev" /></p>
 
-- [Project Name](https://github.com/yourusername/projectname) - Short description of the project.
-- [Another Project](https://github.com/yourusername/anotherproject) - Short description of the project.
-
-## 🏆 Achievements
-
-- 🥇 [Achievement 1]
-- 🥈 [Achievement 2]
-- 🥉 [Achievement 3]
-
----
-
-⭐️ From [Your Name](https://github.com/yourusername)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c2kdev&" alt="c2kdev" /></p>
